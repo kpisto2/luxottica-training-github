@@ -1,5 +1,3 @@
 cane
 gatto
-
-# Sezione
-
+pappagallo
