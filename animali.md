@@ -1,3 +1,4 @@
 cane
 gatto
 pappagallo
+criceto
